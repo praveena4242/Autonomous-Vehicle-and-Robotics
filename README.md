@@ -39,10 +39,9 @@ improved system efficiency.
 ⮚	Safety & Security: Safety protocols and cybersecurity measures
 will be explained and demonstrated as the system handles navigation data and
 responds to external commands.
+
 Outcome:
                  By the end of the demonstration, the system’s capability to operate in real-world autonomous driving and robotic scenarios, ensure data integrity and operational safety, and deliver intelligent navigation and task execution through sensor and AI integration will be showcased to stakeholders.
-
-
 
 2. Project Documentation:
 Overview:
@@ -64,7 +63,6 @@ updates and diagnostic testing.
 ⮚	Testing Reports: Detailed reports on system performance
 metrics, stress/load testing, sensor accuracy, and safety validation under
 various environmental and traffic conditions.
-
 Outcome:
               All critical components of the system will be well-documented, providing a clear guide for future development, deployment, or scaling of autonomous systems.
 
@@ -129,12 +127,12 @@ Low-Power Hardware
 Power-Aware Algorithms
 Battery Management Systems (BMS)
 
-Challenges Addressed
+Challenges Addressed:
 Environment Perception Issues: Solved using multi-sensor fusion.
 Real-Time Decision Making: Solved with RTOS & GPUs.
 System Safety: Solved with redundancy and fail-safes.
 
-Outcomes of Phase 4
+Outcomes of Phase 4:
 Accurate perception and localization (SLAM).
 Efficient and safe navigation.
 Optimized energy use.
