@@ -90,3 +90,16 @@ Tools: Python cryptography, SROS2 (secure ROS2), encryption, authentication.
 Includes: Sensor reliability, navigation, obstacle detection, decision-making, and cybersecurity.
 Shows how the system handles real-world problems and risks.
 
+Challenges and Solutions
+1. Sensor Reliability – Use sensor fusion and AI filtering.
+2. Navigation & Path Planning – Use A*, Dijkstra, SLAM.
+3. Obstacle Detection – Use high-res 3D mapping and predictive models.
+4. Decision-Making – Use behavior prediction and simulations.
+5. Cybersecurity Threats – Encryption, intrusion detection, redundancy.
+
+Outcomes of Phase :
+Full system integration.
+Basic autonomous functionality (navigation, obstacle avoidance).
+Testing and debugging initiated.
+Performance metrics collected.
+Safety features (emergency stop, manual override) validated.
